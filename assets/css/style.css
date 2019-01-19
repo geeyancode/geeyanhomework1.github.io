@@ -48,15 +48,14 @@ ul{
 li{
     display: inline;   
 }
-main{
-    
+main{   
     background-image: url(../images/background1.jpg); 
     background-repeat: no-repeat;
     background-size: auto; 
     width: 960px;
     border:5px solid;
     color: white;
-    margin: 10px 100px 10px 100px;
+    margin: auto;
     height: 700px;
 }
 
@@ -104,20 +103,27 @@ input{
 #input--comment{
     height: 280px !important;
 }
-column{
-    width:960px;
+column1{
+    background: white;
+    width: 960px;
     height: 700px;
-    color: white;
 }
 row1{
-   
     float: left;
-    max-width: 250px;
-    max-height: 250px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 row2{
     float: right;
-    max-width: 250px;
-    max-height: 250px;
+    width: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
+img{
+    padding:10px;
+    border:10px;
+  
+}
+
 
