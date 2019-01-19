@@ -43,7 +43,7 @@ ul{
     padding: 10px;
     font-size: 18px;
     margin-top: 20px;
-    
+
 }
 
 li{
@@ -122,8 +122,9 @@ row2{
     margin-right: 20px;
 }
 img{
-    padding:10px;
-    border:10px;
+    padding: 10px;
+    border: 10px;
+    border-color: white;
   
 }
 
