@@ -14,7 +14,7 @@ header{
 }
 header section{ /* target section tag only*/
     width: 960px;
-    margin: 0px 90px 0px 95px;    
+    margin: 0px 260px 0px 235px;    
 }
 
 nav{
@@ -42,7 +42,8 @@ ul{
     color:gray;
     padding: 10px;
     font-size: 18px;
-    margin: 20px;
+    margin-top: 20px;
+    
 }
 
 li{
